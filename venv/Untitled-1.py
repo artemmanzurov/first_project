@@ -3,3 +3,5 @@ def cool (d):
         print("ghb")
 
 cool(3)
+def peep():
+    ...
